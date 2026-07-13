@@ -1,3 +1,10 @@
+---
+title: "Feature class H Report"
+layout: categories
+permalink: /categories/
+author_profile: true
+---
+
 # Feature Class H Report - Water Features in France
 
 ## Executive Summary
