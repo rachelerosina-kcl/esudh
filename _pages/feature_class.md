@@ -1,7 +1,7 @@
 ---
 title: "Feature class H Report"
-layout: categories
-permalink: /categories/
+layout: single
+permalink: /feature_class_h/
 author_profile: true
 ---
 
